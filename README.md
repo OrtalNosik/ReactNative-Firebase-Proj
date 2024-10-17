@@ -11,8 +11,6 @@ A React Native application developed using **Expo Go**, **JavaScript**, and **Fi
 - [Firebase Configuration](#firebase-configuration)
 - [Available Scripts](#available-scripts)
 - [Dependencies](#dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
