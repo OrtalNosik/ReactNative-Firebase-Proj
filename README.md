@@ -120,10 +120,14 @@ npm install firebase react-native expo expo-image-picker
 ```
 
 ## user UI screens
-![image](https://github.com/user-attachments/assets/16a89c94-a3fa-4429-a5c5-35ff29ed414f)
-![image](https://github.com/user-attachments/assets/ed48a1e7-b17c-4cdb-bf4d-40bc0210eb69)
-![image](https://github.com/user-attachments/assets/fabff0d8-485c-4aa3-b52e-6bb3e4f4844d)
-![image](https://github.com/user-attachments/assets/486b76f9-878b-4f77-9330-4604305056ce)
 
-
+![תמונה של WhatsApp‏ 2024-08-17 בשעה 19 20 31_7642f97e](https://github.com/user-attachments/assets/7e5c278e-5b5c-493c-8b54-3613497f6ca1)
+![תמונה של WhatsApp‏ 2024-08-17 בשעה 19 20 31_3e650e5a](https://github.com/user-attachments/assets/7a3b3e1b-a137-48dc-a926-dee7dc8c08ef)
+![תמונה של WhatsApp‏ 2024-08-17 בשעה 19 20 31_bc488582](https://github.com/user-attachments/assets/2d138398-a13c-4ccc-a147-d2709fa459b2)
+![תמונה של WhatsApp‏ 2024-08-17 בשעה 19 19 24_dfa976c2](https://github.com/user-attachments/assets/bc38e82b-a6ad-4ca4-99ed-798c32c2ab44)
+![תמונה של WhatsApp‏ 2024-08-17 בשעה 19 19 22_6bea2b04](https://github.com/user-attachments/assets/2e095adf-1f4b-4fdb-a501-a938acf5c9ed)
+![תמונה של WhatsApp‏ 2024-08-17 בשעה 19 19 21_c81083ac](https://github.com/user-attachments/assets/a14ebe1b-faa0-4141-b194-15cd638e32c8)
+![תמונה של WhatsApp‏ 2024-08-17 בשעה 19 19 16_e19b49e8](https://github.com/user-attachments/assets/f76be396-1c02-4d2c-9728-504a9f580f82)
+![תמונה של WhatsApp‏ 2024-08-17 בשעה 19 19 17_2f2ed193](https://github.com/user-attachments/assets/a5841a67-8af9-4e28-acf5-ece250fc7cea)
+![תמונה של WhatsApp‏ 2024-08-17 בשעה 19 19 18_76e2de8a](https://github.com/user-attachments/assets/e3a0df1c-3758-487a-90eb-fe9aaaeb0226)
 
